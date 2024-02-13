@@ -22,12 +22,12 @@ Sou uma desenvolvedora web full-stack apaixonada por criar soluções inovadoras
 1. **Sistema de Vendas**
    - Descrição: Desenvolvi uma API para um sistema de vendas utilizando Laravel. A aplicação permite o cadastro e vizualização de vendedores e vendas. Além disso, o sistema envia um e-mail através de um comando com o total de vendas realizadas no dia.
    - Tecnologias Utilizadas: Laravel, Livewire, MySQL, HTML5, CSS3, JavaScript, Git
-   - [Link para o projeto no GitHub](https://github.com/brunavitoria/sistema-de-vendas)
+   - [Link para o projeto](https://github.com/brunavitoria/sistema-de-vendas)
 
 2. **Sistema de Consulta à gastos com Cartões de Pagamentos do Governo Federal**
    - Descrição: Projeto de uma aplicação web utilizando a API de Cartões de Pagamentos do Governo Federal desenvolvido para a disciplina de Sistemas de Informação Distribuídos. A aplicação foi construída utilizando Laravel no backend e Vue.js.
    - Tecnologias Utilizadas: Laravel, Vuejs, MySQL, HTML5, Tailwind CSS, JavaScript, Git.
-   - [Link para o projeto no GitHub](https://github.com/brunavitoria/cartoesdepagamentos)
+   - [Link para o projeto](https://github.com/brunavitoria/cartoesdepagamentos)
 
 ## Experiência Profissional
 1. **Desenvolvedor Web Full-stack - Lumiun Tecnologia**
@@ -36,27 +36,27 @@ Sou uma desenvolvedora web full-stack apaixonada por criar soluções inovadoras
    - Metodologias utilizadas: Scrum e Kanban
    - Período: 2021 - Atual
    - Local: Remoto
-   - [Site da Empresa](https://www.lumiun.com)
+   - [Site da Lumiun](https://www.lumiun.com)
 
 2. **Estagiário em Desenvolvimento Web - PlanoA Sistemas**
     - Descrição: Estágio em desenvolvimento web, onde tive a oportunidade de trabalhar em projetos de desenvolvimento de sistemas web utilizando PHP (Laravel) e MySQL.
     - Tecnologias Utilizadas: PHP (Laravel), MySQL, HTML5, CSS3, JavaScript, Jquery, Bootstrap, Bitbucket.
     - Período: 2020 - 2021
     - Local: Remoto
-    - [Site da Empresa](http://www.planoasistemas.com.br)
+    - [Site da PlanoA](http://www.planoasistemas.com.br)
 
 ## Educação
 - Bacharel em Sistemas de Informação - Universidade Federal de Santa Maria (UFSM)
   - Período: 2018 - 2022
   - Local: Frederico Westphalen, RS
-  - [Site da Universidade](https://www.ufsm.br/unidades-universitarias/frederico-westphalen)
+  - [Site da UFSM](https://www.ufsm.br/unidades-universitarias/frederico-westphalen)
 
-- Técnico em Informática - Escola Técnica Estadual Portão
+- Técnico em Informática - Escola Técnica Estadual Portão (ETEP)
   - Período: 2013 - 2016
   - Local: Portão, RS
-  - [Site da Escola](https://www.etep.net.br/)
+  - [Site da ETEP](https://www.etep.net.br/)
 
 ## Contato
-- E-mail: seuemail@example.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/brunavitoria/)
-- GitHub: [Seu Perfil no GitHub](https://github.com/brunavitoria    )
+- E-mail: brunavitoriati@gmail.com
+- LinkedIn: [Bruna Vitória dos Santos](https://www.linkedin.com/in/brunavitoria/)
+- GitHub: [Bruna Vitória](https://github.com/brunavitoria    )
